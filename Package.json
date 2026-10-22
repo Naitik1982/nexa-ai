@@ -1,0 +1,13 @@
+{
+  "name": "nexa-ai",
+  "version": "1.0.0",
+  "description": "Nexa AI chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.77.0"
+  }
+}
